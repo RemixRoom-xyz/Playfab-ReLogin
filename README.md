@@ -2,4 +2,4 @@ Website > www.remroom.xyz
 
 PlayfabReload calls a function of PlayfabLogin
 
-< Public void Login() >
+Toggle the Boolean to ReLogin < Public void Login() >
